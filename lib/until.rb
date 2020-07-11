@@ -3,4 +3,5 @@ def using_while
   while force < 6
   puts "Wingardium Leviosa"
   force += 1
+  end
 end
