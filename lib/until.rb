@@ -1,8 +1,6 @@
-def using_until
-  levitation_force = 6
-  until levitation_force == 10
+def using_while
+  force = 6
+  while force < 6
   puts "Wingardium Leviosa"
-  levitation_force += 1
-  end
+  force += 1
 end
-
